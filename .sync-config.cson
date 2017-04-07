@@ -3,7 +3,7 @@ remote:
   user: "xingyu"
   path: "/home/xingyu/tmp/foo"
 behaviour:
-  uploadOnSave: true
+  uploadOnSave: false
   syncDownOnOpen: true
   forgetConsole: false
   autoHideConsole: true
